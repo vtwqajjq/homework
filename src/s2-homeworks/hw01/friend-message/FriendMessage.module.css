@@ -26,7 +26,7 @@
 .friendText {
     position: relative;
     padding: 8px 13px;
-    background-color: #F5F7FB;
+    background-color: #0066CC;
     height: 54px;
     border: none;
     border-radius: 10px;
@@ -41,7 +41,7 @@
     width: 0;
     height: 0;
     border: 14px solid transparent;
-    border-left-color: #F5F7FB;
+    border-left-color: #0066CC;
     border-right: 0;
     border-bottom: 0;
     margin-top: -9px;
